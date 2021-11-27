@@ -10,6 +10,7 @@
   "author": "Coornea/ Wahyu K. Rahman",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^10.0.0",
     "express": "^4.17.1",
     "joi": "^17.4.2",
     "jsonwebtoken": "^8.5.1",
@@ -20,5 +21,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Coornea/Waysfood-API.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Coornea/Waysfood-API/issues"
+  },
+  "homepage": "https://github.com/Coornea/Waysfood-API#readme"
 }
